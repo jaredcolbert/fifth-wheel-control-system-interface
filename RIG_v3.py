@@ -22,7 +22,7 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-# GUI settings
+# GUI settings 
 class visuals:
     frame_borderwidth = 5
     label_font = 'helv 16'
@@ -37,6 +37,7 @@ class visuals:
     frame_height = 50
     on_btn_x_pos = 40
     off_btn_x_pos = 235
+    what_the_fuck_emeral = None
 
 
 class App(Frame):
